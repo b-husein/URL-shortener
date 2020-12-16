@@ -7,7 +7,7 @@ A website to shorten any URL;
 ### Features
 
 - Clean, responsive, well organized and simple with Modern UI Design.
-- A URL shortener that makes long URLs shorter and readable;
+- A URL shortener that makes long URLs shorter and much more readable;
 - Coded with JS, PHP, CSS3, deployed on Heroku. 🔨
 - Inspired by [Ky75 project.](https://github.com/Ky75/URL-shortener/tree/master/src)
 
